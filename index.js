@@ -17,7 +17,7 @@ console.log(format("Oula"));
 
 //console.log(buffervalue);
 
-//const path = require("path");
+//let path = require("path");
 
 //const p ="Users/user/Desktop/Learning Node Js/content.txt";
 

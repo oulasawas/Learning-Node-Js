@@ -1,0 +1,14 @@
+{
+    "name": "Oula",
+    "company": "Tcs",
+    "empid": 1605691,
+    "courses": [
+        "react",
+        "angular",
+        "nodejs"
+    ],
+    "bank": {
+        "name": "chase",
+        "accountNo": 12345
+    }
+}

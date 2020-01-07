@@ -1,0 +1,15 @@
+<ul class="list-group mt-4">
+    <li class="list-group-item" *ngFor="let msg of msgList">
+        <strong>User:</strong>
+        <p>{{msg.text}}</p>
+    </li>
+
+</ul>
+
+<div class="card" style="position: fixed; width:60%; bottom:0;">
+    <div class="card-body">
+        <form (submit)="handleSubmit(inputText)">
+            <input type="text" class="form-control" placeholder="Type here...."#inputText>
+        </form>
+    </div>
+</div>

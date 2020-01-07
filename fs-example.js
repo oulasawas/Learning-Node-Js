@@ -1,4 +1,4 @@
-const fs = require("fs");
+let fs = require("fs");
 
 // Open
 
